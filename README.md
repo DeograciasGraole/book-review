@@ -63,7 +63,7 @@ DB_DATABASE=${DB_DATABASE_PATH}/database.sqlite</code></pre>
       <pre><code>php artisan serve</code></pre>
     </li>
   </ol>
-  <p>Visit <a href="https://book-share.fly.dev/books" target="_blank">book-share</a> in your browser 🧑‍💻</p>
+  <p>Visit <a href="https://book-review-wispy-cloud-3700.fly.dev/" target="_blank">book-share</a> in your browser 🧑‍💻</p>
 
   <h2>🧠 Learning Objectives</h2>
   <ul>
